@@ -2,7 +2,7 @@ rm(list = ls()) #clean environment
 
 #0 Setting work directory
 data.path <- "C:/Users/oboke/Desktop/R H3 26.03/MLR_data_2.txt"
-setwd("C:/Users/Aisha/Desktop/R H3 26.03")
+setwd("C:/Users/oboke/Desktop/R H3 26.03")
 
 #1 Read in the data file
 data     <- read.table(data.path, header = TRUE)
