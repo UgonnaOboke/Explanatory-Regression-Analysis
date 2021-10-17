@@ -1,21 +1,6 @@
-# Welcome!
-# Add markdown text for GitHub wiki below  
-
-Project name:		N/A
-
-Date:        		2018-Jan-28
-Author:      		Brad Horn
-License:     		GPL (>=2)
-
-Description: 		N/A
-
-Details:     		N/A
-
-Dev.Notes:   		NA
-
-Depends      		See config directory
-
-
-
-
-
+# Create a visual plot to access the dependence between the different variables
+# Compute the correleation using Pearson's method
+# Conduct an explanatory regression and determine the best model
+# Test criterion to determine the best model 
+# With the adjusted R-squared, determine which model fits
+# Check for normality, homoscedasticity using the Q-Q plot
